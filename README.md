@@ -2,7 +2,7 @@
 # *𝙹𝙰𝙲𝙺 𝙨𝙚𝙧 𝙼-𝙳*
 <div align="center">
   
-  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+𝙹𝙰𝙲𝙺+𝚂𝙴𝚁+WHATSAPP+BOT)](https://github.com/jackser13/JACK-MD)
+  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+𝙹𝙰𝙲𝙺+𝚂𝙴𝚁+WHATSAPP+BOT)](https://github.com/jackser13/JACK SER)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/UGXQvNF.jpeg" width="450" height="200"/>
@@ -20,7 +20,7 @@
 
 - To use This bot you need fork this first <br>
 
-[Click Here To Fork](https://github.com/jackser13/LoRD-MD/fork)
+[Click Here To Fork](https://github.com/jackser13/JACK SER/fork)
 
 ## `⨷ SCAN QR`
 
@@ -28,7 +28,7 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jackser13/LORD-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jackser13/JACK SER)
 
 
 ### `⨷ DEPLOY`
@@ -37,7 +37,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change JACK SER to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/jackser13/LORD-MD
+  https://heroku.com/deploy?template=https://github.com/jackser13/JACK SER
 ```
 <br>
 
