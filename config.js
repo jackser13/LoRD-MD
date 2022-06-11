@@ -1,7 +1,7 @@
 /**
-   * Created By LoRD.
-   * Contact Me on wa.me/919778383987
-   * Follow https://github.com/Lord-official
+   * Created By JACK.
+   * Contact Me on wa.me/919744106247
+   * Follow https://github.com/jackser13
 **/
 
 const fs = require('fs')
@@ -18,7 +18,7 @@ global.APIKeys = {
 }
 //======================================//
 
-global.wm = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮'
+global.wm = '«jack.𝒐𝒇𝒄»🇮'
 global.ucpn = ''
 
 //================= Url =================//
@@ -28,18 +28,18 @@ global.linkyt = 'https://youtu.be/RnpyRe_7jZA'
 global.linkfb = 'https://fb.watch/aYv0jAffAO'
 global.web = 'https://raselcomel.github.io'
 global.web1 = 'https://anu.rasell.repl.co'
-global.linkgh = 'https://github.com/Lord-official'
+global.linkgh = 'https://github.com/jackser13'
 
 global.session = process.env.SESSION_ID|| ''
 global.titlink = 'Folllow me on Instagram'
-global.bodlink = 'Lord-official'
+global.bodlink = 'JACK SER'
 // Other
-global.watermark = '«𝒍𝒐𝒓𝒅.𝒐𝒇𝒄»🇮🇳'
-global.owner = ['919778383987']
-global.premium = ['919778383987']
-global.packname = '𝐋𝐨𝐑𝐃-𝐌𝐃'
-global.author = '𝐿𝑜𝑟𝑑-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
-global.sessionName = 'lord'
+global.watermark = '«𝒍jackser.𝒐𝒇𝒄»🇮🇳'
+global.owner = ['919744106247']
+global.premium = ['919744106247']
+global.packname = '𝐽𝐴𝐶𝐾-𝐌𝐃'
+global.author = '𝑗𝑎𝑐𝑘 𝑠𝑒𝑟-𝑜𝑓𝑓𝑖𝑐𝑖𝑎𝑙'
+global.sessionName = 'Jack'
 global.prefa = ['','!','.','🐦',',','*']
 global.sp = '❄︎'
 global.mess = {
