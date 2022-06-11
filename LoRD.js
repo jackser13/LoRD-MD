@@ -1,6 +1,6 @@
 /**
-☘︎Recoded By Lord-official.
-☘︎Github https://github.com/Lord-official
+☘︎Recoded By JACK SER-official.
+☘︎Github https://github.com/jackser13
 **/
 
 require('./config')
@@ -52,7 +52,7 @@ const lordofc = {
                             itemCount : 123,
                             itemCoun : 404,
                             surface : 404,
-                            message: `© LoRD-MD`,
+                            message: `© JACK-MD`,
                             orderTitle: 'B',
                             thumbnail: global.thumb, 
                             sellerJid: '0@s.whatsapp.net'
@@ -1616,7 +1616,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                     title: `𝑯𝒊 ${pushname} \n𝑻𝒉𝒊𝒔 𝑰𝒔 𝒎𝒆𝒏𝒖`,
                     description: `🐦`,
                     buttonText: "Menu",
-                    footerText: "LoRD-MD",
+                    footerText: "𝙹𝙰𝙲𝙺-MD",
                     listType: "SINGLE_SELECT",
                     sections: [{
 								"title": "Group Features",
@@ -1668,7 +1668,7 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
 										},
 										{
 											"title": "𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆",
-										"description": "ʟᴏʀᴅ-ᴍᴅ 𝑔𝑖𝑡",
+										"description": "𝙹𝙰𝙲𝙺-ᴍᴅ 𝑔𝑖𝑡",
 										"rowId": `sc`
 										}
 								]
@@ -1818,7 +1818,7 @@ break
 
           case 'menu': case 'help': case '?': {
                 anu = `
-      𝐋𝐨𝐑𝐃-𝐌𝐃
+      𝙹𝙰𝙲𝙺 𝚂𝙴𝚁-𝐌𝐃
  
 ✘ 𝑽𝒆𝒓𝒔𝒊𝒐𝒏: 0.0.1
 
@@ -1833,12 +1833,12 @@ break
                 let btn = [{
                                 urlButton: {
                                     displayText: '𝑮𝒊𝒕𝒉𝒖𝒃',
-                                    url: 'https://github.com/Lord-official'
+                                    url: 'https://github.com/jackser13'
                                 }
                             }, {
                                 urlButton: {
                                     displayText: '𝑰𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
-                                    url: 'https://instagram.com/__light__seeker__3?igshid=YmMyMTA2M2Y='
+                                    url: 'https://instagram.com/ylnt_jack?igshid=YmMyMTA2M2Y='
                                 }
                             }, {
                                 quickReplyButton: {
