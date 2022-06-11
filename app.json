@@ -1,12 +1,12 @@
 
 {
-	"name": "Deploy",
+	"name": "JACK-MD",
 	"description": "Wa Bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/jackser13/whatsapp-bot",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
@@ -42,7 +42,7 @@
         "STICKER_DATA": {
             "description": "Name of stickers created using bot. Can also split using ;",
             "required": true,
-            "value":"ʀᴀɢᷨᴀͦɴͭᴏʀᴋ"
+            "value":"𝐽𝐴𝐶𝐾 𝑆𝐸𝑅"
         },
         "CHATBOT": {
             "description": "AI chatbot",
@@ -52,7 +52,7 @@
         "BOT_NAME": {
             "description": "Name of AI chatbot",
             "required": true,
-            "value":"Raganork"
+            "value":"𝐽𝐴𝐶𝐾 𝑆𝐸𝑅 𝑀𝐷"
         },
         "AUDIO_DATA": {
             "description": "Name of audio (take) name;name;image(url)",
@@ -62,12 +62,12 @@
         "MODE": {
             "description": "Private or public",
             "required": true,
-            "value":"private"
+            "value":"public"
         },
         "SUDO": {
             "description": "These numbers can control your bot. seperate with commas",
             "required": false,
-            "value":"919074309534"
+            "value":"919744106247"
         },
         "ALIVE": {
             "description": "Alive message {image/link}, {sender} can also be used",
