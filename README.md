@@ -28,16 +28,16 @@
 
 ## `DEPLOY`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lord-official/jackser13)
 
 
 ### `⨷ DEPLOY`
   
   
 
-👉 <b>Copy this link and paste it on your browser Change Lord-official to your github username<b> <br><br>
+👉 <b>Copy this link and paste it on your browser Change JACK SER to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/Lord-official/LoRD-MD
+  https://heroku.com/deploy?template=https://github.com/JACK SER/jackser13
 ```
 <br>
 
