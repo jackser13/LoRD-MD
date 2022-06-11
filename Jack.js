@@ -27,14 +27,14 @@ const fvid = {
 	 key: { 
           fromMe: false,
 	      participant: "0@s.whatsapp.net", 
-	     remoteJid: "120363040549014341@g.us" 
+	     remoteJid: "120363044247430500@g.us" 
                 },
 	 message: { 
                  "videoMessage": { 
-                 "title": `LoRD-MD`,
-                 "h": `LoRD-MD`,
+                 "title": `JACK-MD`,
+                 "h": `JACK-MD`,
                  'duration': '99999', 
-                 'caption': `LoRD-MD`,
+                 'caption': `JACK-MD`,
                  'jpegThumbnail': global.thumb
                         }
                        }
