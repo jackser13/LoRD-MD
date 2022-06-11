@@ -1,8 +1,8 @@
 {
-  "name": "LoRD-MD",
-  "logo": "https://i.imgur.com/D4CwwgN.jpeg",
+  "name": "JaCK-MD",
+  "logo": "https://i.imgur.com/UGXQvNF.jpeg",
   "description": "WhatsApp Bot",
-  "repository": "https://github.com/Lord-official/LoRD-MD",
+  "repository": "https://github.com/jackser13/LoRD-MD",
   "keywords": ["bot","whatsapp","whatsapp-bot"],
   "env": {
  "SESSION_ID": {
