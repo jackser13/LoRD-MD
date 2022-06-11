@@ -1,5 +1,5 @@
 {
-  "name": "LoRD-MD",
+  "name": "JACK-MD",
   "version": "1.2.3",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Lord-official",
+  "author": "JACK-official",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -66,10 +66,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lord-official/LoRD-MD.git"
+    "url": "git+https://github.com/jackser13/JACK-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Lord-official/LoRD-MD/issues"
+    "url": "https://github.com/jackser13/JACK-MD/issues"
   },
-  "homepage": "https://github.com/Lord-official/LoRD-MD#readme"
+  "homepage": "https://github.com/jackser13/JACK-MD#readme"
 }
