@@ -22,9 +22,9 @@
 
 [Click Here To Fork](https://github.com/jackser13/LoRD-MD/fork)
 
-## `⨷ SCAN QR` EE PIC IL CLICK CHEYTH QR SCAN CHEYU
+## `⨷ SCAN QR`     EE PIC IL CLICK CHEYTH QR SCAN CHEYU
 
-<a href="https://raganork-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/UGXQvNF.jpeg" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://jackser13-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/UGXQvNF.jpeg" alt="Scan QR" height="112" width="300" /></a>
 
 ## `DEPLOY`
 
