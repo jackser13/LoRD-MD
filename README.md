@@ -24,7 +24,7 @@
 
 ## `⨷ SCAN QR`
 
-<a href="https://raganork-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://raganork-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/UGXQvNF.jpeg" alt="Scan QR" height="112" width="300" /></a>
 
 ## `DEPLOY`
 
