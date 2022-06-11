@@ -2,7 +2,7 @@
 # * 𝙹𝙰𝙲𝙺 𝚂𝙴𝚁 Multi-Device*
 <div align="center">
   
-  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+𝙹𝙰𝙲𝙺-𝚂𝙴𝚁+WHATSAPP+BOT)](https://github.com/jackser13/JACK MD-MD)
+  [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+𝙹𝙰𝙲𝙺+𝚂𝙴𝚁+WHATSAPP+BOT)](https://github.com/jackser13/JACK-MD)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://i.imgur.com/UGXQvNF.jpeg" width="450" height="200"/>
