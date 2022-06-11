@@ -8,8 +8,8 @@
   <img border-radius: 15px src="https://i.imgur.com/UGXQvNF.jpeg" width="450" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/__light__seeker__3"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/919778383987"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/ylnt_jack"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/919744106247"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
 
