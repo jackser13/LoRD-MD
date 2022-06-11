@@ -20,7 +20,7 @@
 
 - To use This bot you need fork this first <br>
 
-[Click Here To Fork](https://github.com/jackser13/jackser13/fork)
+[Click Here To Fork](https://github.com/jackser13/LoRD-MD/fork)
 
 ## `⨷ SCAN QR`
 
