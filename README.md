@@ -24,7 +24,7 @@
 
 ## `⨷ SCAN QR`     EE PIC IL CLICK CHEYTH QR SCAN CHEYU
 
-<a href="https://jackser13-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/UGXQvNF.jpeg" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://Rangork-qr.herokuapp.com/"><img align="center" src="https://i.imgur.com/UGXQvNF.jpeg" alt="Scan QR" height="112" width="300" /></a>
 
 ## `DEPLOY`
 
