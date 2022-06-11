@@ -37,7 +37,7 @@
 
 👉 <b>Copy this link and paste it on your browser Change JACK SER to your github username<b> <br><br>
 ```
-  https://heroku.com/deploy?template=https://github.com/jackser13/JACK_MD
+  https://heroku.com/deploy?template=https://github.com/jackser13/LORD-MD
 ```
 <br>
 
