@@ -1,5 +1,5 @@
 
-# *𝗝𝗔𝗖𝗞 𝗦𝗘𝗥 M-D*
+# *𝑱𝑨𝑪𝑲 𝑺𝑬𝑹 M-D*
 <div align="center">
   
   [![Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+𝙹𝙰𝙲𝙺+𝚂𝙴𝚁+WHATSAPP+BOT)](https://github.com/jackser13/JACK-MD)
